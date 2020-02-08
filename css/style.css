@@ -1,10 +1,8 @@
 .left {
-  background-color: crimson;
   float: inline-end;
   padding: 20px
 }
 .right{
-  background-color: salmon;
   float: right;
 }
 .Textbox{
