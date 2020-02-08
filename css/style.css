@@ -27,7 +27,7 @@ h1 {
 p {
   font-family: serif;
   color: white;
-  line-height: inherit;
+  line-height: 1.7em;
 }
 ol {
   line-height: 30px;
