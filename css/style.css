@@ -33,7 +33,7 @@ ol {
   line-height: 30px;
 }
 section{
-  column-count: 2;
+  column-count: 1;
   column-gap: 2em;
 }
 @media only screen and (min-width: 480px ) {
@@ -42,7 +42,7 @@ section{
     font-size: 16px
   }
   section{
-    column-count: 1;
+    column-count: 2;
   }
 
 }
