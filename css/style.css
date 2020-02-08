@@ -1,0 +1,33 @@
+.left {
+  background-color: crimson;
+  float: inline-end;
+  padding: 20px
+}
+.right{
+  background-color: salmon;
+  float: right;
+}
+.Textbox{
+  border-left: 6px solid crimson;
+  border-right: 6px solid crimson;
+  border-top: 6px solid crimson;
+  border-bottom: 6px solid crimson;
+  padding: 6px;
+}
+body{
+  background-color: grey;
+}
+
+h1 {
+  color: skyblue;
+  font-style: italic;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 2em;
+}
+p {
+  font-family: serif;
+}
+ol {
+  line-height: 30px;
+}
